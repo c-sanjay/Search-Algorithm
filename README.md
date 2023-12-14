@@ -104,10 +104,15 @@ else:
 ```
 ## Output:
 i)
+
 ![](./1.png)
+
 ii)
+
 ![](./2.png)
+
 iii)
+
 ![](./3.png)
 
 ## Result
